@@ -13,7 +13,7 @@ I recently completed a rigorous Data Analytics and Business Intelligence program
 👯 I am passionate about leveraging data analytics to drive data-informed decision-making and create meaningful impact. 🔭 Seeking opportunities to optimize processes, drive efficiency, and deliver results through data analysis Let's connect and explore opportunities to collaborate!
 
 📫 padmashree.ravikiran3@gmail.com
-\social[linkedin]{padmashreeravikiran} 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/padmashreeravikiran/)
 💼 [https://kanyady.github.io](https://kanyady.github.io)
 
 
