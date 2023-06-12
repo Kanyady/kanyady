@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Padmashree. 
-I am a Google Data Analytics Professional Certificate course participant with expertise in data analysis and visualization. I have experience in managing MIS and ISO audit files in the wind turbine assembly industry and am proficient in SAP PP module and CRM.
+I am a Google Data Analytics Professional Certificate course graduate with expertise in data analysis and visualization. I have experience in managing MIS and ISO audit files in the wind turbine assembly industry and am proficient in SAP PP module and CRM.
 
 🌱 Skills and learning
 - Proficient in data cleaning, modeling and analysis using tools such as R, SQL and Excel/spreadsheets
